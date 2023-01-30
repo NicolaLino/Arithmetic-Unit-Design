@@ -3,8 +3,11 @@
 
 /* 		
 		Nicola Abu Shaibeh 1190843
+		
 		4 bit bit Arithmetic Unit
+
 		12/08/2022
+
 		The task is to design an Arithmetic Unit
 		
 */ 
